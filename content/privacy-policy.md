@@ -36,6 +36,6 @@ All logs are discarded in every release.
 
 ## Contact us
 
-[Contact us](/hugo-bootstrap-theme/contact/) if you have any questions.
+[Contact us](sphia@sas.upenn.edu) if you have any questions.
 
-Effective Date: *15th May 2022*
+Effective Date: *12th February 2025*

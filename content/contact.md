@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+If you have noticed a bug or have any concern, feel free to email sphia@sas.upenn.edu
