@@ -1,4 +1,4 @@
-baseURL = "https://isadeks.github.io/hugo-mock-landing-page/"
+baseURL = 'https://isadeks.github.io/hugo-mock-landing-page-autodeployed/'
 author = "Sphia Sadek"
 copyright = "Sphia Sadek"
 
